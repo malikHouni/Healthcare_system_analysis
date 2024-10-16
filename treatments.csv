@@ -1,0 +1,601 @@
+TreatmentID,AppointmentID,TreatmentType,Cost
+1,52,Medication,236.3
+2,108,Surgery,258.8
+3,145,Medication,1179.64
+4,243,Physical Therapy,321.66
+5,15,Surgery,181.48
+6,165,Radiology,828.96
+7,115,Medication,1958.41
+8,133,Medication,1144.45
+9,255,Consultation,1781.14
+10,70,Physical Therapy,960.43
+11,273,Physical Therapy,1868.25
+12,273,Radiology,156.84
+13,267,Medication,1466.96
+14,6,Physical Therapy,1915.18
+15,68,Physical Therapy,992.18
+16,167,Consultation,582.32
+17,275,Radiology,1337.86
+18,95,Radiology,825.75
+19,288,Physical Therapy,743.23
+20,48,Surgery,779.04
+21,278,Consultation,882.17
+22,56,Surgery,956.7
+23,109,Consultation,416.74
+24,32,Surgery,1384.92
+25,84,Radiology,1696.38
+26,67,Medication,1495.15
+27,148,Radiology,897.21
+28,160,Physical Therapy,415.66
+29,276,Surgery,1452.46
+30,296,Physical Therapy,200.05
+31,62,Radiology,1053.7
+32,98,Surgery,1904.61
+33,245,Consultation,767.84
+34,237,Medication,1493.98
+35,223,Radiology,1875.94
+36,123,Radiology,320.72
+37,191,Medication,1257.39
+38,205,Radiology,1169.98
+39,81,Surgery,1037.81
+40,135,Surgery,1071.0
+41,159,Radiology,857.7
+42,77,Surgery,357.82
+43,182,Radiology,499.23
+44,91,Radiology,207.11
+45,135,Consultation,1679.1
+46,121,Medication,128.89
+47,131,Surgery,531.65
+48,155,Medication,1700.67
+49,239,Consultation,1840.44
+50,282,Physical Therapy,714.61
+51,14,Radiology,1397.24
+52,220,Surgery,150.34
+53,63,Physical Therapy,1883.48
+54,58,Physical Therapy,502.34
+55,294,Surgery,385.17
+56,108,Physical Therapy,274.3
+57,26,Radiology,1370.87
+58,269,Radiology,731.25
+59,53,Radiology,1101.1
+60,254,Consultation,1967.21
+61,74,Physical Therapy,337.66
+62,73,Radiology,1181.61
+63,145,Consultation,653.62
+64,255,Radiology,1165.18
+65,230,Radiology,1752.46
+66,295,Surgery,1379.46
+67,177,Radiology,1887.84
+68,189,Radiology,1512.29
+69,7,Radiology,1069.55
+70,120,Radiology,363.58
+71,2,Radiology,297.14
+72,192,Medication,707.27
+73,194,Medication,775.8
+74,126,Consultation,1659.38
+75,278,Consultation,1056.84
+76,257,Consultation,1089.57
+77,215,Medication,1994.64
+78,165,Consultation,1304.52
+79,155,Surgery,1207.97
+80,149,Physical Therapy,1673.71
+81,232,Surgery,388.9
+82,35,Physical Therapy,1735.58
+83,242,Physical Therapy,604.85
+84,62,Radiology,654.22
+85,156,Consultation,1386.59
+86,229,Physical Therapy,330.21
+87,74,Radiology,440.92
+88,53,Surgery,1943.2
+89,85,Radiology,1290.97
+90,49,Physical Therapy,582.55
+91,300,Radiology,1809.52
+92,142,Radiology,764.16
+93,266,Surgery,393.97
+94,156,Surgery,1962.61
+95,91,Physical Therapy,320.11
+96,35,Radiology,1188.69
+97,38,Medication,1525.14
+98,7,Radiology,1869.65
+99,86,Physical Therapy,309.06
+100,4,Medication,1102.83
+101,76,Radiology,351.78
+102,235,Surgery,1566.89
+103,268,Physical Therapy,488.16
+104,79,Radiology,530.74
+105,212,Surgery,1997.04
+106,283,Physical Therapy,1705.86
+107,256,Medication,1336.02
+108,81,Medication,1316.98
+109,164,Physical Therapy,1236.33
+110,53,Surgery,1909.0
+111,81,Medication,1731.62
+112,189,Physical Therapy,1260.37
+113,100,Radiology,359.6
+114,128,Physical Therapy,800.65
+115,155,Physical Therapy,1926.95
+116,52,Physical Therapy,330.92
+117,284,Surgery,288.41
+118,133,Consultation,158.83
+119,214,Radiology,1282.72
+120,104,Surgery,698.86
+121,242,Physical Therapy,1815.18
+122,280,Radiology,1945.19
+123,108,Surgery,602.85
+124,23,Medication,1746.26
+125,44,Radiology,792.89
+126,7,Consultation,581.85
+127,206,Consultation,1234.09
+128,146,Radiology,1834.07
+129,126,Radiology,356.71
+130,275,Physical Therapy,576.41
+131,241,Physical Therapy,170.38
+132,131,Physical Therapy,674.23
+133,28,Radiology,1453.2
+134,236,Consultation,295.2
+135,208,Medication,668.42
+136,52,Consultation,1150.63
+137,216,Physical Therapy,1603.14
+138,159,Surgery,1979.49
+139,14,Consultation,909.73
+140,243,Physical Therapy,1091.39
+141,175,Radiology,1758.55
+142,174,Medication,990.3
+143,98,Surgery,506.34
+144,261,Consultation,1789.99
+145,139,Physical Therapy,1485.78
+146,64,Consultation,816.19
+147,275,Medication,1026.49
+148,201,Surgery,483.49
+149,120,Consultation,186.35
+150,202,Medication,714.25
+151,239,Surgery,1304.76
+152,13,Consultation,637.17
+153,158,Physical Therapy,1972.0
+154,79,Medication,292.5
+155,78,Physical Therapy,1325.59
+156,138,Medication,1137.78
+157,189,Physical Therapy,106.08
+158,77,Physical Therapy,1696.73
+159,230,Consultation,874.19
+160,158,Consultation,1077.04
+161,110,Physical Therapy,1478.2
+162,76,Medication,1474.41
+163,144,Consultation,1614.8
+164,161,Consultation,317.25
+165,255,Physical Therapy,1934.23
+166,209,Medication,1753.35
+167,109,Physical Therapy,1781.75
+168,115,Radiology,1337.16
+169,12,Physical Therapy,649.81
+170,272,Medication,1437.7
+171,282,Consultation,1569.16
+172,278,Consultation,535.57
+173,151,Surgery,1725.05
+174,251,Physical Therapy,1032.18
+175,109,Consultation,542.37
+176,232,Radiology,1936.19
+177,108,Consultation,1852.93
+178,104,Radiology,1461.42
+179,100,Consultation,1126.79
+180,245,Consultation,797.48
+181,247,Medication,1776.32
+182,300,Consultation,1569.61
+183,65,Radiology,1557.75
+184,283,Medication,1062.99
+185,136,Consultation,177.81
+186,187,Medication,1160.58
+187,270,Consultation,1711.09
+188,233,Surgery,1063.78
+189,275,Medication,1509.62
+190,146,Radiology,998.24
+191,171,Surgery,1163.46
+192,227,Consultation,187.67
+193,204,Consultation,689.72
+194,207,Surgery,1806.55
+195,47,Physical Therapy,686.63
+196,55,Surgery,961.77
+197,179,Radiology,1182.39
+198,44,Consultation,1554.38
+199,66,Medication,571.45
+200,263,Physical Therapy,238.09
+201,122,Medication,1733.51
+202,176,Surgery,1456.95
+203,173,Consultation,1565.62
+204,266,Radiology,424.56
+205,4,Surgery,997.64
+206,124,Surgery,966.32
+207,245,Medication,1056.41
+208,35,Medication,1844.76
+209,2,Consultation,1984.21
+210,295,Medication,160.13
+211,207,Physical Therapy,450.23
+212,142,Consultation,1697.06
+213,47,Radiology,266.39
+214,294,Physical Therapy,1953.47
+215,238,Surgery,1438.38
+216,235,Medication,121.64
+217,83,Radiology,1426.2
+218,7,Consultation,686.38
+219,75,Medication,1052.76
+220,2,Physical Therapy,365.44
+221,177,Surgery,1246.67
+222,276,Surgery,505.47
+223,255,Medication,637.37
+224,148,Consultation,1422.51
+225,229,Consultation,477.74
+226,266,Medication,648.7
+227,234,Medication,265.08
+228,14,Medication,1240.74
+229,267,Radiology,555.79
+230,122,Medication,1774.94
+231,300,Radiology,1223.6
+232,102,Physical Therapy,521.34
+233,169,Medication,113.85
+234,245,Medication,321.81
+235,272,Consultation,538.01
+236,15,Medication,1149.77
+237,1,Radiology,466.79
+238,292,Radiology,1397.14
+239,98,Medication,268.68
+240,263,Radiology,859.49
+241,89,Medication,549.52
+242,4,Physical Therapy,1625.44
+243,102,Radiology,343.11
+244,115,Radiology,329.14
+245,68,Radiology,1584.89
+246,291,Radiology,768.39
+247,270,Medication,1595.76
+248,114,Medication,1362.92
+249,169,Physical Therapy,267.6
+250,295,Medication,1944.99
+251,43,Radiology,1867.89
+252,284,Physical Therapy,1623.51
+253,144,Surgery,1692.91
+254,243,Consultation,1278.99
+255,235,Physical Therapy,1848.11
+256,104,Consultation,890.0
+257,179,Radiology,1797.51
+258,45,Surgery,970.72
+259,53,Consultation,1585.38
+260,204,Physical Therapy,1003.64
+261,173,Medication,1424.71
+262,82,Consultation,922.01
+263,134,Medication,824.28
+264,84,Consultation,1338.86
+265,200,Radiology,1585.38
+266,256,Medication,254.76
+267,96,Surgery,601.77
+268,107,Physical Therapy,1218.43
+269,243,Surgery,658.39
+270,92,Consultation,1203.93
+271,161,Consultation,1987.45
+272,211,Surgery,1781.69
+273,138,Consultation,1197.58
+274,55,Radiology,229.77
+275,26,Physical Therapy,1663.44
+276,162,Radiology,1908.1
+277,18,Medication,342.79
+278,17,Physical Therapy,1276.08
+279,50,Physical Therapy,381.67
+280,63,Consultation,311.51
+281,87,Medication,797.2
+282,166,Surgery,580.62
+283,266,Medication,1498.37
+284,141,Surgery,529.78
+285,89,Medication,1707.99
+286,185,Medication,557.05
+287,79,Surgery,1352.89
+288,46,Radiology,432.04
+289,290,Consultation,1205.53
+290,191,Consultation,1057.22
+291,5,Consultation,1185.62
+292,126,Surgery,831.38
+293,77,Consultation,1867.58
+294,170,Physical Therapy,689.96
+295,257,Medication,1825.44
+296,198,Surgery,1519.49
+297,151,Surgery,796.14
+298,234,Physical Therapy,971.33
+299,178,Medication,1758.31
+300,116,Consultation,442.89
+301,199,Surgery,393.11
+302,123,Surgery,1178.02
+303,17,Surgery,1965.19
+304,200,Surgery,1049.76
+305,295,Surgery,1268.89
+306,108,Surgery,1289.05
+307,85,Physical Therapy,1410.95
+308,211,Surgery,1380.22
+309,116,Radiology,1763.04
+310,163,Medication,922.69
+311,114,Medication,1899.31
+312,203,Consultation,1578.64
+313,256,Surgery,621.03
+314,297,Surgery,649.75
+315,41,Physical Therapy,857.3
+316,95,Radiology,1944.61
+317,165,Medication,144.48
+318,99,Medication,252.56
+319,60,Consultation,926.38
+320,90,Surgery,1233.7
+321,185,Physical Therapy,1886.27
+322,128,Consultation,1609.42
+323,288,Consultation,172.53
+324,127,Consultation,284.56
+325,38,Physical Therapy,393.29
+326,168,Physical Therapy,1613.54
+327,13,Surgery,728.45
+328,121,Physical Therapy,1617.97
+329,150,Consultation,108.94
+330,13,Surgery,1165.34
+331,146,Consultation,1295.94
+332,112,Consultation,1081.32
+333,158,Medication,1660.82
+334,294,Physical Therapy,814.17
+335,1,Medication,1255.08
+336,280,Medication,318.65
+337,137,Consultation,1556.35
+338,54,Physical Therapy,340.79
+339,211,Consultation,1537.96
+340,270,Radiology,702.62
+341,166,Consultation,127.83
+342,41,Consultation,953.16
+343,155,Physical Therapy,1459.62
+344,152,Consultation,1812.25
+345,255,Consultation,1548.83
+346,243,Medication,1143.73
+347,235,Consultation,778.05
+348,246,Physical Therapy,1160.78
+349,19,Medication,1781.54
+350,240,Surgery,1738.52
+351,176,Surgery,118.41
+352,25,Consultation,1379.7
+353,211,Medication,390.95
+354,297,Radiology,1627.15
+355,138,Surgery,1705.52
+356,200,Medication,1740.66
+357,298,Surgery,652.13
+358,276,Medication,1334.07
+359,215,Consultation,283.34
+360,128,Medication,1951.41
+361,120,Medication,877.9
+362,216,Physical Therapy,1135.53
+363,236,Consultation,1057.34
+364,25,Radiology,1308.34
+365,85,Surgery,248.5
+366,164,Medication,270.86
+367,33,Medication,247.72
+368,291,Consultation,449.72
+369,43,Physical Therapy,865.14
+370,38,Surgery,853.86
+371,229,Radiology,691.61
+372,56,Medication,1559.65
+373,36,Physical Therapy,1704.51
+374,66,Surgery,277.27
+375,149,Surgery,344.61
+376,230,Radiology,134.74
+377,92,Consultation,358.47
+378,63,Surgery,791.04
+379,63,Surgery,1258.98
+380,252,Radiology,1011.21
+381,79,Medication,1947.56
+382,159,Consultation,119.62
+383,52,Radiology,1387.77
+384,5,Medication,438.36
+385,197,Radiology,912.96
+386,234,Radiology,1486.6
+387,298,Radiology,209.67
+388,260,Physical Therapy,256.76
+389,168,Radiology,1552.27
+390,101,Medication,872.49
+391,142,Medication,1780.94
+392,257,Surgery,981.81
+393,222,Physical Therapy,1405.76
+394,129,Medication,1488.23
+395,257,Physical Therapy,1054.57
+396,97,Surgery,1760.37
+397,268,Physical Therapy,1257.17
+398,30,Medication,411.68
+399,70,Consultation,976.98
+400,186,Physical Therapy,198.21
+401,287,Physical Therapy,1988.54
+402,275,Consultation,208.69
+403,107,Radiology,623.76
+404,17,Consultation,1380.92
+405,204,Radiology,586.2
+406,10,Consultation,1679.07
+407,219,Physical Therapy,641.18
+408,77,Radiology,1212.89
+409,193,Radiology,1643.62
+410,232,Consultation,1647.15
+411,247,Physical Therapy,1799.05
+412,122,Physical Therapy,1945.0
+413,154,Physical Therapy,1498.64
+414,112,Radiology,1219.89
+415,77,Radiology,1627.22
+416,25,Radiology,543.93
+417,262,Physical Therapy,844.74
+418,35,Surgery,1829.81
+419,77,Surgery,1980.15
+420,188,Radiology,1936.69
+421,44,Radiology,800.45
+422,278,Physical Therapy,432.31
+423,13,Physical Therapy,643.25
+424,99,Surgery,197.97
+425,134,Surgery,114.85
+426,277,Consultation,167.55
+427,125,Physical Therapy,1375.86
+428,160,Medication,375.23
+429,280,Consultation,1005.86
+430,20,Physical Therapy,899.93
+431,86,Medication,1842.47
+432,263,Medication,1881.71
+433,69,Radiology,1670.03
+434,202,Radiology,1585.64
+435,25,Medication,1691.42
+436,219,Medication,1867.2
+437,273,Consultation,1175.8
+438,227,Medication,950.46
+439,151,Radiology,1689.31
+440,126,Radiology,924.22
+441,29,Radiology,642.53
+442,285,Surgery,1035.23
+443,114,Consultation,786.53
+444,90,Consultation,1200.77
+445,134,Consultation,1052.05
+446,67,Surgery,1113.77
+447,204,Consultation,178.87
+448,78,Surgery,552.52
+449,185,Surgery,728.73
+450,262,Medication,294.15
+451,30,Surgery,1237.14
+452,92,Physical Therapy,421.24
+453,155,Physical Therapy,375.45
+454,285,Consultation,1026.12
+455,98,Physical Therapy,930.23
+456,106,Medication,1310.45
+457,176,Physical Therapy,1943.06
+458,110,Surgery,176.93
+459,261,Physical Therapy,1034.57
+460,268,Radiology,1648.59
+461,180,Medication,761.31
+462,100,Consultation,875.6
+463,283,Radiology,313.64
+464,16,Medication,1103.36
+465,221,Medication,196.72
+466,71,Medication,674.08
+467,249,Physical Therapy,1368.15
+468,96,Physical Therapy,1524.74
+469,3,Radiology,608.89
+470,274,Radiology,1126.36
+471,243,Surgery,1094.85
+472,161,Surgery,1489.25
+473,226,Surgery,840.21
+474,69,Medication,721.1
+475,261,Consultation,327.13
+476,128,Surgery,937.67
+477,278,Radiology,708.84
+478,103,Consultation,472.3
+479,267,Surgery,409.66
+480,273,Physical Therapy,726.69
+481,3,Surgery,1603.88
+482,190,Surgery,1590.82
+483,175,Medication,1959.4
+484,111,Medication,897.4
+485,289,Surgery,1785.62
+486,232,Medication,1873.99
+487,190,Physical Therapy,788.46
+488,293,Consultation,1028.05
+489,265,Consultation,745.06
+490,48,Medication,304.11
+491,1,Surgery,864.03
+492,164,Physical Therapy,1930.41
+493,27,Physical Therapy,1662.4
+494,191,Radiology,1547.49
+495,151,Medication,291.76
+496,160,Radiology,120.5
+497,130,Medication,365.94
+498,260,Radiology,838.89
+499,260,Surgery,1850.06
+500,117,Medication,353.38
+501,165,Consultation,1187.72
+502,21,Medication,1118.02
+503,234,Consultation,405.62
+504,134,Radiology,1606.08
+505,217,Radiology,166.24
+506,84,Surgery,249.6
+507,183,Consultation,1707.04
+508,230,Surgery,757.55
+509,260,Physical Therapy,1969.75
+510,152,Consultation,549.11
+511,49,Medication,1810.91
+512,159,Consultation,1190.25
+513,218,Radiology,847.43
+514,141,Surgery,1561.78
+515,5,Physical Therapy,1695.71
+516,241,Surgery,693.95
+517,205,Physical Therapy,1006.09
+518,112,Radiology,1383.79
+519,203,Surgery,1426.37
+520,253,Medication,670.65
+521,182,Medication,276.14
+522,239,Surgery,843.1
+523,139,Surgery,754.94
+524,244,Physical Therapy,270.27
+525,44,Surgery,847.06
+526,263,Physical Therapy,1185.2
+527,200,Surgery,1993.04
+528,1,Surgery,1538.32
+529,52,Consultation,728.12
+530,163,Physical Therapy,889.99
+531,24,Radiology,324.5
+532,200,Medication,1628.9
+533,275,Physical Therapy,1175.04
+534,289,Surgery,999.07
+535,3,Medication,963.94
+536,167,Surgery,541.86
+537,269,Radiology,620.29
+538,65,Physical Therapy,714.78
+539,253,Physical Therapy,103.39
+540,73,Surgery,1128.79
+541,260,Surgery,1980.83
+542,132,Physical Therapy,723.61
+543,231,Surgery,1007.59
+544,135,Physical Therapy,1771.66
+545,3,Consultation,1115.61
+546,176,Radiology,1230.93
+547,181,Physical Therapy,780.5
+548,59,Radiology,1003.26
+549,111,Radiology,1085.53
+550,83,Consultation,1548.58
+551,255,Physical Therapy,1758.64
+552,81,Surgery,1360.92
+553,172,Surgery,954.75
+554,290,Physical Therapy,1705.12
+555,70,Physical Therapy,523.7
+556,222,Radiology,767.52
+557,80,Radiology,647.83
+558,90,Medication,911.19
+559,281,Radiology,1514.5
+560,189,Physical Therapy,418.58
+561,78,Medication,1781.27
+562,13,Radiology,1162.84
+563,199,Surgery,902.21
+564,114,Radiology,349.37
+565,50,Radiology,1266.11
+566,132,Radiology,703.48
+567,116,Radiology,1488.37
+568,178,Consultation,1954.84
+569,228,Physical Therapy,454.05
+570,76,Medication,170.0
+571,18,Physical Therapy,485.02
+572,69,Radiology,1172.86
+573,117,Surgery,348.94
+574,246,Medication,804.99
+575,37,Physical Therapy,470.08
+576,282,Surgery,1483.99
+577,36,Radiology,106.16
+578,9,Surgery,176.29
+579,263,Physical Therapy,1490.18
+580,102,Medication,1940.32
+581,83,Physical Therapy,1222.0
+582,18,Surgery,240.85
+583,260,Surgery,1615.09
+584,127,Physical Therapy,150.99
+585,265,Physical Therapy,479.98
+586,48,Physical Therapy,1000.84
+587,44,Surgery,1237.18
+588,190,Consultation,864.45
+589,260,Physical Therapy,1312.84
+590,76,Radiology,1092.42
+591,51,Surgery,1823.86
+592,139,Consultation,1998.91
+593,172,Medication,1487.37
+594,208,Consultation,265.62
+595,103,Medication,726.79
+596,63,Consultation,1091.22
+597,254,Surgery,598.29
+598,226,Radiology,1760.08
+599,90,Surgery,473.3
+600,2,Consultation,488.49
